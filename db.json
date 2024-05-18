@@ -1,0 +1,99 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "KIA",
+      "price": "123",
+      "year": "1231231231",
+      "image": "assets/images/kia.png",
+      "configure": {
+        "chip": "",
+        "ssd": "",
+        "memory": "",
+        "display": ""
+      }
+    },
+    {
+      "id": 2,
+      "title": "RENO",
+      "price": "123",
+      "year": "312",
+      "image": "assets/images/reno.jpg",
+      "configure": {
+        "chip": "",
+        "ssd": "",
+        "memory": "",
+        "display": ""
+      }
+    },
+    {
+      "id": 3,
+      "title": "MAZDA",
+      "price": "5",
+      "year": "12123",
+      "image": "assets/images/reno.jpg",
+      "configure": {
+        "chip": "",
+        "ssd": "",
+        "memory": "",
+        "display": ""
+      }
+    },
+    {
+      "id": 4,
+      "title": "",
+      "price": "",
+      "year": "",
+      "image": "assets/images/bolt-car.png",
+      "configure": {
+        "chip": "",
+        "ssd": "",
+        "memory": "",
+        "display": ""
+      }
+    },
+    {
+      "id": 5,
+      "title": "",
+      "price": "",
+      "year": "",
+      "image": "assets/images/bolt-car.png",
+      "configure": {
+        "chip": "",
+        "ssd": "",
+        "memory": "",
+        "display": ""
+      }
+    }
+  ],
+  "basket": [
+    {
+      "id": 1,
+      "title": "VOLVO",
+      "price": "123",
+      "year": "1231231231",
+      "image": "assets/images/kia.png",
+      "configure": {
+        "chip": "",
+        "ssd": "",
+        "memory": "",
+        "display": ""
+      },
+      "quantity": 3
+    },
+    {
+      "id": 3,
+      "title": "SMART",
+      "price": "123",
+      "year": "12123",
+      "image": "assets/images/reno.jpg",
+      "configure": {
+        "chip": "",
+        "ssd": "",
+        "memory": "",
+        "display": ""
+      },
+      "quantity": 5
+    }
+  ]
+}
