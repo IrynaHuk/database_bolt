@@ -7,10 +7,9 @@
       "year": "1231231231",
       "image": "assets/images/kia.png",
       "configure": {
-        "chip": "",
-        "ssd": "",
-        "memory": "",
-        "display": ""
+        "type": "Оригінал",
+        "condition": "Нове",
+        "description": ""
       }
     },
     {
@@ -20,10 +19,9 @@
       "year": "312",
       "image": "assets/images/reno.jpg",
       "configure": {
-        "chip": "",
-        "ssd": "",
-        "memory": "",
-        "display": ""
+        "type": "Аналог",
+        "condition": "Вживане",
+        "description": ""
       }
     },
     {
@@ -33,36 +31,9 @@
       "year": "12123",
       "image": "assets/images/reno.jpg",
       "configure": {
-        "chip": "",
-        "ssd": "",
-        "memory": "",
-        "display": ""
-      }
-    },
-    {
-      "id": 4,
-      "title": "",
-      "price": "",
-      "year": "",
-      "image": "assets/images/bolt-car.png",
-      "configure": {
-        "chip": "",
-        "ssd": "",
-        "memory": "",
-        "display": ""
-      }
-    },
-    {
-      "id": 5,
-      "title": "",
-      "price": "",
-      "year": "",
-      "image": "assets/images/bolt-car.png",
-      "configure": {
-        "chip": "",
-        "ssd": "",
-        "memory": "",
-        "display": ""
+        "type": "Аналог",
+        "condition": "Нове",
+        "description": ""
       }
     }
   ],
@@ -74,10 +45,9 @@
       "year": "1231231231",
       "image": "assets/images/kia.png",
       "configure": {
-        "chip": "",
-        "ssd": "",
-        "memory": "",
-        "display": ""
+        "type": "",
+        "condition": "",
+        "description": ""
       },
       "quantity": 3
     },
@@ -88,10 +58,9 @@
       "year": "12123",
       "image": "assets/images/reno.jpg",
       "configure": {
-        "chip": "",
-        "ssd": "",
-        "memory": "",
-        "display": ""
+        "type": "",
+        "condition": "",
+        "description": ""
       },
       "quantity": 5
     }
