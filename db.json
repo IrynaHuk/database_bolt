@@ -6,7 +6,10 @@
       "price": "123",
       "year": "1231231231",
       "image": "assets/images/kia.png",
-      "categoryId": 1,
+      "category":{
+        "id": 1,
+        "title": "Кузовні деталі"
+      },
       "configure": {
         "type": "Оригінал",
         "condition": "Нове",
@@ -19,7 +22,10 @@
       "price": "123",
       "year": "312",
       "image": "assets/images/reno.jpg",
-      "categoryId": 2,
+      "category":{
+        "id": 1,
+        "title": "Деталі салону"
+      },
       "configure": {
         "type": "Аналог",
         "condition": "Вживане",
@@ -32,7 +38,10 @@
       "price": "5",
       "year": "12123",
       "image": "assets/images/reno.jpg",
-      "categoryId": 3,
+      "category":{
+        "id": 1,
+        "title": "Системи охолодження"
+      },
       "configure": {
         "type": "Аналог",
         "condition": "Нове",
@@ -41,30 +50,36 @@
     }
   ],
   "basket": [
-    {
-      "id": 1,
-      "title": "VOLVO",
-      "price": "123",
-      "year": "1231231231",
-      "image": "assets/images/kia.png",
-      "categoryId": 1,
-      "configure": {
-        "type": "",
-        "condition": "",
-        "description": ""
-      },
+      {
+        "id": 3,
+        "title": "MAZDA",
+        "price": "5",
+        "year": "12123",
+        "image": "assets/images/reno.jpg",
+        "category":{
+          "id": 1,
+          "title": "Системи охолодження"
+        },
+        "configure": {
+          "type": "Аналог",
+          "condition": "Нове",
+          "description": ""
+        },
       "quantity": 3
     },
     {
-      "id": 3,
-      "title": "SMART",
+     "id": 2,
+      "title": "RENO",
       "price": "123",
-      "year": "12123",
+      "year": "312",
       "image": "assets/images/reno.jpg",
-      "categoryId": 2,
+      "category":{
+        "id": 1,
+        "title": "Деталі салону"
+      },
       "configure": {
-        "type": "",
-        "condition": "",
+        "type": "Аналог",
+        "condition": "Вживане",
         "description": ""
       },
       "quantity": 5
