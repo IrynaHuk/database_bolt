@@ -23,7 +23,7 @@
       "year": "312",
       "image": "assets/images/reno.jpg",
       "category":{
-        "id": 1,
+        "id": 2,
         "title": "Деталі салону"
       },
       "configure": {
@@ -39,7 +39,7 @@
       "year": "12123",
       "image": "assets/images/reno.jpg",
       "category":{
-        "id": 1,
+        "id": 3,
         "title": "Системи охолодження"
       },
       "configure": {
@@ -74,7 +74,7 @@
       "year": "312",
       "image": "assets/images/reno.jpg",
       "category":{
-        "id": 1,
+        "id": 2,
         "title": "Деталі салону"
       },
       "configure": {
